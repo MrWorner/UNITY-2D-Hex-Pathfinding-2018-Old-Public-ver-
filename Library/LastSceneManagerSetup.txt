@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MyMegaFramework/MyScenes/MG_MyScene.unity
+  isLoaded: 1
+  isActive: 1

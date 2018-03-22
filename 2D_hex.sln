@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D_hex", "2D_hex.csproj", "{BF8CAE94-9487-804D-8B28-E87C9521688D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D_hex.Editor", "2D_hex.Editor.csproj", "{3265A9D4-4B16-B4D2-DF56-37D1E907B3DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF8CAE94-9487-804D-8B28-E87C9521688D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8CAE94-9487-804D-8B28-E87C9521688D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8CAE94-9487-804D-8B28-E87C9521688D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8CAE94-9487-804D-8B28-E87C9521688D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3265A9D4-4B16-B4D2-DF56-37D1E907B3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3265A9D4-4B16-B4D2-DF56-37D1E907B3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3265A9D4-4B16-B4D2-DF56-37D1E907B3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3265A9D4-4B16-B4D2-DF56-37D1E907B3DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

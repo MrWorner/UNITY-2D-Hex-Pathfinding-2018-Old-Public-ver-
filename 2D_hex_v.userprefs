@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="2D_hex_v.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyMegaFramework\Scripts\Main\Pathfinding\MG_Pathfinding.cs">
+    <Files>
+      <File FileName="Assets\MyMegaFramework\Scripts\Main\Pathfinding\MG_Pathfinding.cs" Line="23" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
